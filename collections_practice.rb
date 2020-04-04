@@ -21,3 +21,6 @@
     array[0], array[1], array[2] = array[0], array[2], array[1]
   end
 
+def reverse_array(arary)
+  
+end
